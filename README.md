@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 #  👨‍💻 Hi I'm JongHun
 - 🏫 **I majored in Computer Science (2018~2024)**
 
-- 🏢 **I'm working at a Etechsystem as a server/storage engineer (2024.06~)**
+- 🏢 **I'm working at a AWS as a DataCenter Technican (2025.12~)**
   
 - 🌱 **I’m still studying NetWork, AWS, Docker, Algorithm ( ~ )**
 
