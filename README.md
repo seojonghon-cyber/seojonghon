@@ -1,18 +1,10 @@
-
-
-
-<!--
-**seojonghon/seojonghon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-#  👨‍💻 Hi I'm JongHun
+# 👨‍💻 Hi I'm JongHun
 - 🏫 **I majored in Computer Science (2018~2024)**
 
-- 🏢 **I'm working at a Etechsystem as a server/storage engineer (2024.06~)**
-  
-- 🌱 **I’m still studying NetWork, AWS, Docker, Algorithm ( ~ )**
+- 🏢 **I'm working at AWS as a DataCenter Technician (2025.12~)**
+- 🏢 **Previously worked at Etechsystem as a server/storage engineer (2024.06 ~ 2025.12)**
+   
+- 🌱 **I'm still studying NetWork, AWS, Docker, Algorithm ( ~ )**
 
 
 # 📜Certificate
@@ -25,7 +17,7 @@ Here are some ideas to get you started:
 ### Boot Camp
 
 -  🎓 **SSG I&C , Cloud Engineer Process 2th**
-  
+   
 
 <h1>📚 STACKS</div>
 
